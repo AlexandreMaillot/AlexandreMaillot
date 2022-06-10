@@ -11,7 +11,7 @@ Application mobile IOS et Android pour la gestion de fuite d'eau.
 - Envoi de rapport en mail 📧
 - Génération d'un fichier word 📄
 - Authentification utilisateur 🔒
-- Mode déconnecter et connecter 🟢⚫
+- Mode déconnecter et connecter 🟢🔴
 
 
 ![Profuite](https://github.com/AlexandreMaillot/AlexandreMaillot/blob/main/img/planche_profuite.png)
