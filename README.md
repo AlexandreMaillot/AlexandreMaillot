@@ -2,7 +2,7 @@
 
 ### Mes derniers projet :
 
-### Profuite: 
+###Profuite : 
 
 Description : 
 
@@ -17,7 +17,7 @@ Application mobile IOS et Android pour la gestion de fuite d'eau.
 
 ![Profuite](https://github.com/AlexandreMaillot/AlexandreMaillot/blob/main/img/planche_profuite.png)
 
-### O-Spawn-Cup:
+###O-Spawn-Cup :
 
 Description :
 
