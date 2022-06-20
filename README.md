@@ -15,3 +15,18 @@ Application mobile IOS et Android pour la gestion de fuite d'eau.
 
 
 ![Profuite](https://github.com/AlexandreMaillot/AlexandreMaillot/blob/main/img/planche_profuite.png)
+
+### O-Spawn-Cup
+
+Description :
+
+Application mobile Android et IOS destinée à mettre en relation les joueurs et organisateurs de tournois :
+- Authentification (Google, Email et mot de passe) 🔒
+- Donnée en temps réel ⏰
+- Base de données (Firebase) 💾
+- Intégration continu ✨
+- BLOC Pattern 🗒️
+- Email de notification 📧
+- TDD 💪
+- Adobe XD 🖌️
+
