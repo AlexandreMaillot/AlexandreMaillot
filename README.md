@@ -12,6 +12,7 @@ Application mobile IOS et Android pour la gestion de fuite d'eau.
 - Génération d'un fichier word 📄
 - Authentification utilisateur 🔒
 - Mode déconnecter et connecter 🟢🔴
+- Figma 🖌️
 
 
 ![Profuite](https://github.com/AlexandreMaillot/AlexandreMaillot/blob/main/img/planche_profuite.png)
