@@ -1,4 +1,4 @@
-![Cover](https://github.com/AlexandreMaillot/AlexandreMaillot/blob/main/img/banniere_github.png)
+![Cover](https://github.com/AlexandreMaillot/AlexandreMaillot/blob/main/img/Bannière Alexandre.png)
 
 ### Mes derniers projet :
 
